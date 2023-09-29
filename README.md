@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @metekaradeniz35
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+@metekradeniz35
+C,javascript,html,css learner
 
 <!---
 metekaradeniz35/metekaradeniz35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

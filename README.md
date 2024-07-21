@@ -1,5 +1,5 @@
 @metekradeniz35
-C,javascript,html,css student
+C,html,css and java student
 
 <!---
 metekaradeniz35/metekaradeniz35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
